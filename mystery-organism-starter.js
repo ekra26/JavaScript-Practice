@@ -73,7 +73,3 @@ const createSubjects = (totalNumberSubject) => {
   } 
 }
 
-createSubjects(2);
-console.log(pAequorSubjects);
-console.log(pAequorSubjects);
-console.log(AequorSubjects[0].willLikelySurvive());
